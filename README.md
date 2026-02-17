@@ -1,3 +1,3 @@
-<p align="center">
-  <img src="./lawrence-terminal.gif" alt="Lawrence Njobo terminal intro" width="900" />
-</p>
+<div align="center">
+  <img src="./lawrence-terminal.gif" width="700" alt="Terminal GIF">
+</div>
